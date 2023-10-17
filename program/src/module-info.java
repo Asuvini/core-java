@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Blacky {
+module program {
 }
